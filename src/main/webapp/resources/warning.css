@@ -1,0 +1,19 @@
+
+
+.successForAdd{
+    font-style: italic;
+    font-variant: normal;
+    font-family: cursive;
+    color: green;
+}
+.errorForAdd{
+    font-style: italic;
+    font-variant: normal;
+    font-family: cursive;
+    color: red;
+}
+.example{
+    padding: 1%;
+    margin: 15px;
+    border: 2px darkblue;
+}
